@@ -1,0 +1,6 @@
+
+  var area;
+  
+  area = 0.4330127*userInput*userInput
+  area = area.toFixed(2);
+  console.log(area);
